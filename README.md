@@ -5,6 +5,11 @@
 - 👯 I’m currently learning Data Engineering and ETL.
 - ⚡ You can check out my Kaggle at https://www.kaggle.com/fikricetin
 
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
+
+</p>
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cetinfikri07&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Fikri's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cetinfikri07&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
