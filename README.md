@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt='mysql' width="40" height="40">
   <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt='pandas' width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt='sklearn' width="60" height="40">
